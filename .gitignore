@@ -1,0 +1,28 @@
+# Compiled Java classes
+*.class
+
+# Package Files
+*.jar
+*.war
+*.nar
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
